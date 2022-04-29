@@ -1,5 +1,5 @@
 LİNK
-_________-->> https://react-recip-eapp.netlify.app/
+_________-->> https://Mikaildokgoz.github.io/RecipeApp
 
 # Getting Started with Create React App
 
