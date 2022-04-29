@@ -18,7 +18,7 @@ const Login = ({ authenticate }) => {
   return (
     <div className={styles.loginMain}>
       <img src={kitchen} alt="kitchen-pot" className={styles.kitchenlogo} />
-      <h1 className={styles.logo}>Ersen's Kitchen</h1>
+      <h1 className={styles.logo}>Mike's Kitchen</h1>
       <Form className={styles.form} onSubmit={handleSubmitLogin}>
         <Form.Label>Name</Form.Label>
         <Form.Control type="text" placeholder="Enter Name" required />
