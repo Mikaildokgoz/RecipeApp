@@ -5,7 +5,7 @@ const About = () => {
   return (
     <div className={styles.main}>
       <img src={codingSvg} alt="codingSvg" className={styles.image} />
-      <h1 style={{marginTop: '2rem', marginBottom:'2rem'}}> Hi, &#128075; I'm Ersen</h1>
+      <h1 style={{marginTop: '2rem', marginBottom:'2rem'}}> Hi, &#128075; I'm Mike</h1>
       <h4>I’m currently learning Full-Stack Development Languages.</h4>
       <h4>
         I've already known HTML, Css, JavaScript, ReactJS, SQL, Linux,
